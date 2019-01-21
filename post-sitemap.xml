@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.huweihuang.com</loc>
+        <loc>https://tbj1818.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/%E7%8F%8D%E6%83%9C%E5%BD%93%E4%B8%8B%EF%BC%8C%E4%BD%99%E7%94%9F%E4%B8%8D%E7%95%99%E9%81%97%E6%86%BE/</loc>
+        <loc>https://tbj1818.github.io/article/%E7%8F%8D%E6%83%9C%E5%BD%93%E4%B8%8B%EF%BC%8C%E4%BD%99%E7%94%9F%E4%B8%8D%E7%95%99%E9%81%97%E6%86%BE/</loc>
         <lastmod>2019-01-21T06:27:50.478Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>http://www.huweihuang.com/article/hexo-theme-huweihuang/</loc>
+        <loc>https://tbj1818.github.io/article/hexo-theme-huweihuang/</loc>
         <lastmod>2019-01-21T06:23:49.563Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
